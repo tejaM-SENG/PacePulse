@@ -33,7 +33,7 @@ The project focuses on creating an engaging landing page experience while demons
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/tejaM-SENG/pacepulse)
+git clone (https://github.com/tejaM-SENG/PacePulse)
 ```
 
 ### 2. Navigate to the Project
@@ -59,11 +59,11 @@ You can also use the **Live Server** extension in Visual Studio Code to run the 
 
 ## 🌐 Live Demo
 
-[View Live Website](https://tejam-seng.github.io/pacepulse/)
+[View Live Website](https://tejam-seng.github.io/PacePulse/)
 
 ## 💻 Source Code
 
-[View GitHub Repository](https://github.com/tejaM-SENG/pacepulse)
+[View GitHub Repository](https://github.com/tejaM-SENG/PacePulse)
 
 ## 👨‍💻 Developer
 
